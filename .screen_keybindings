@@ -1,0 +1,6 @@
+# Navigating regions with prefix + arrow
+bind -k kl focus left
+bind -k kr focus right
+bind -k ku focus up
+bind -k kd focus down
+
