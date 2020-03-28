@@ -7,6 +7,6 @@ make_links() {
 		shift
 	done
 }
-make_links screen*
+make_links screen_keybindings screenrc
 touch ~/.screen_layout
 
